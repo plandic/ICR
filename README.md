@@ -9,3 +9,7 @@
 - ニューラルネットワークやGBDTの帰納バイアスはL2正則化や木の深さの調整などのパラメータに依存しますが，TabPFNではそのような設定は不要
 - XGBoost,LightGBM，CatBoostなどの分類アルゴリズムより精度が高く，AutoMLが5〜60分で達成できる性能と同等の性能を示した
 ![image](https://github.com/plandic/ICR/assets/34090657/fda1920a-d90a-4a9e-86a8-73c325082474)
+
+## 2023/05/28
+- drop_cols = ['AY','BC', 'BZ','CL']
+- ![image](https://github.com/plandic/ICR/assets/34090657/5bbb3775-6586-40b7-8589-75aa59913faf)
