@@ -22,3 +22,6 @@
 - ![image](https://github.com/plandic/ICR/assets/34090657/d8757413-db06-435a-b2c0-399d1e262ce0)
 - LBは0.2下がった
 
+## 2023/05/3
+![image](https://github.com/plandic/ICR/assets/34090657/26a08fb2-1fb2-487d-8983-87852c59c174)
+
