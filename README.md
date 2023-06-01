@@ -22,6 +22,14 @@
 - ![image](https://github.com/plandic/ICR/assets/34090657/d8757413-db06-435a-b2c0-399d1e262ce0)
 - LBは0.2下がった
 
-## 2023/05/3
+## 2023/05/31
 ![image](https://github.com/plandic/ICR/assets/34090657/26a08fb2-1fb2-487d-8983-87852c59c174)
+
+## 2023/06/02
+- 0.13 LB 1.01 CV, 10 FOLD CROSS VALIDATION!読み解き
+- https://www.kaggle.com/code/muhammad4hmed/0-13-lb-1-01-cv-10-fold-cross-validation
+- strptime　datetimeクラスのクラスメソッドであるstrptime()で、日付や時刻を表す文字列からdatetimeオブジェクトを生成できる。
+- toordinal　西暦1年1月1日からの経過日数を得られます
+- SimpleImputer(missing_values=np.nan, strategy='median') 欠損値を中央値で置き換える
+- return_inverseをTrueとすると、ユニークな要素配列のどの位置に、ndarrayの各要素があるかを示す。
 
